@@ -1,6 +1,7 @@
 #  Lets Look at a students perfomance scenario .
 #  We will include Comparison and Logical Operators
 # marks = float(input('Enter Students Marks: '))
+
 marks = 78
 
 if marks < 30:
